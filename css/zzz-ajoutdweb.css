@@ -1,0 +1,184 @@
+.tt-dropdown-menu {
+    right: -20% !important;
+    margin-top: 0 !important;
+}
+
+
+.site-banner .inside #cxpmClientAccountWidget{
+    float: right;
+    margin-right: 71px;
+}
+.site-banner .quicklinks-wrapper {
+    float: right;
+    margin-right: 9px;
+    border-right: 1px dotted #b2b2b2;
+}
+#cxpmClientAccountWidget .widget-text span a{
+font-family: Open Sans Condensed,Open Sans,Helvetica,Arial,sans-serif;
+    color: #000;
+    font-weight: 600;
+    font-size: 14px;
+}
+#cxpmClientAccountWidget .widget-my-selection, #cxpmClientAccountWidget .widget-notifications{
+padding-top:8px;
+}
+#cxpmClientAccountWidget .widget-icon .icon-shopping_basket{
+color:#000000;
+    font-size: 25px;
+}
+#cxpmClientAccountWidget .widget-text {
+    padding-top: 8px;
+}
+
+.article iframe {
+    display: block;
+    margin: 0 auto;
+}
+
+/***** STYLE PAGE EVENEMENT *****/
+
+.page-events.event .mod-catal.catal-nav-affix .catal-nav-affix-list{
+	display:none;
+}
+.page-events.event .mod-catal .btn-primary, .mod-catal .catal-ex-item-buttons-small .btn-primary, .mod-catal .catal-ex-item-buttons .btn-primary {
+	    display: block;
+    padding-top: 15px;
+}
+
+.page-events.event .mod-catal .catal-ex-item-buttons, .mod-catal .catal-ex-item-buttons-small {
+	 float: right;
+}
+
+.page-events.event .edito.block-page h1{
+	text-align: left;
+	font-size: 45px;
+}
+
+.page-events.event .layout-2-col [id="zone2"]{
+	width:100%;
+}
+	   
+.page-events.event .edito.block-page h1{
+	 margin: 35px 0 30px;
+}
+
+.page-events.event .mod-catal.catal-nav-ex{
+	    padding-bottom: 0em;
+		    height: 2.05em;
+}
+.page-events.event .mod-catal.catal-nav-ex .catal-nav-ex-sep {
+	 height: 2.05em;
+	 margin-top:0;
+}
+
+.page-events.event i.icon-catal.icon-catal-arrow-right:before {
+    content: ""!important;
+    display: block;
+    width: 25px;
+    height: 9px;
+    background-image: url(/theme/retromobile_git_desktop/img/arrow-thin-dark.png);
+    -webkit-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    transform: rotate(0deg);
+    margin-top: -6px;
+
+}
+
+.page-events.event .mod-catal .catal-ex-item-stand-more-link span{
+	    font-size: 16px;
+    line-height: 24px;
+    color: #5781AE;
+    text-decoration: none;
+    font-weight: 400;
+}
+  
+.page-events.event .mod-catal .catal-ed-main .catal-ed-main-stand-ref {
+font-weight: bold;
+    font-size: 0.8em;
+    margin-top: -2.5em;
+}
+.page-events.event .catal-ed-main-session{
+	width: 62%;
+}
+.page-events.event a.catal-ed-activity-link:before {
+    content: ""!important;
+    display: inline-block;
+    width: 42px;
+    height: 42px;
+    position: absolute;
+    background-image: url(/theme/retromobile_git_desktop/img/icon/icon-orga-event.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    transform: rotate(0deg);
+    margin-top: -0.3em;
+vertical-align: top;
+margin-left: -60px;
+
+}
+.page-events.event a.catal-ed-activity-link:hover:before {
+    content: ""!important;
+    display: inline-block;
+    width: 25px;
+    height: 9px;
+    background-image: url(/theme/retromobile_git_desktop/img/arrow-thin-dark.png);
+    -webkit-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    transform: rotate(0deg);
+    margin-top: 0.7em;
+vertical-align: top;
+margin-left: -60px;
+}
+
+.page-events.event a.catal-ed-activity-link:hover {
+    color: #ffffff;
+    background-color: #5781AE;
+}
+
+.page-events.event a.catal-ed-activity-link {
+    display: inline;
+    margin-left: 44px;
+    color: #ffffff;
+    background-color: #000000;
+    text-decoration: none;
+    padding: 7px;
+    border-radius: 50px;
+}
+
+.page-events.event .mod-catal .catal-ed-main .catal-ed-main-desc-title{
+	    padding-bottom: 10px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.page-events.event h2.evd-infos-type-title.evd-title {
+    font-weight: bold;
+    font-size: 1.5em;
+    text-align: left;
+    margin-top: 20px;
+    display: inherit;
+}
+
+.page-events.event .persons-event:before {
+    content: '';
+    position: relative;
+    top: -2px;
+    display: inline-block;
+    border: 4px solid #5781AE;
+    margin-right: 0.5em;
+}
+
+
+/*************************/
+
+/*Catalogue*/
+.mod-catal .catal-ex-item-title a {
+    color: #000000 !important;
+	font-weight: 500;
+}
+
+.mod-catal .catal-ex-item.is-premium .catal-ex-item-title a {
+    color: #0064b4 !important;
+	font-weight: 700;
+}
