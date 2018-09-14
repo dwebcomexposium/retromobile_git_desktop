@@ -182,3 +182,9 @@ margin-left: -60px;
     color: #0064b4 !important;
 	font-weight: 700;
 }
+
+/** Liste d'articles **/
+
+.article_list [class*=grid-]>:after, .list-articles [class*=grid-]>:after, .article_list [class*=grid-]>:before, .list-articles [class*=grid-]>:before{
+border:0;
+}
