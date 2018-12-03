@@ -188,3 +188,10 @@ margin-left: -60px;
 .article_list [class*=grid-]>:after, .list-articles [class*=grid-]>:after, .article_list [class*=grid-]>:before, .list-articles [class*=grid-]>:before{
 border:0;
 }
+
+
+/**** FOCUS ****/
+
+.article .focus1 a {
+	color: #FFFFFF;
+}
