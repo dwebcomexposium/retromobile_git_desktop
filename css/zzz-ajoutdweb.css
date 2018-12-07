@@ -206,3 +206,9 @@ border:0;
 .article .focus1 a {
 	color: #FFFFFF;
 }
+
+/*** PRECEDENT SUIVANT ***/
+
+.article-navigation span.an-item-publication {
+    display: none;
+}
