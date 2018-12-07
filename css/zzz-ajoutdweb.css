@@ -30,6 +30,17 @@ color:#000000;
     padding-top: 8px;
 }
 
+.cxpmClientAccountPopinWrapper .cxpmClientAccountPopinContent h1 {
+    left: initial;
+    position: inherit;
+    transform: inherit;
+    font-size: 32px !important;
+    line-height: inherit;
+    width: inherit;
+    top: inherit;
+	
+}
+
 .article iframe {
     display: block;
     margin: 0 auto;
