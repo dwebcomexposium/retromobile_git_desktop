@@ -212,3 +212,9 @@ border:0;
 .article-navigation span.an-item-publication {
     display: none;
 }
+
+/*** CTA Espace exposant ***/ 
+#zone1 .quicklinks .ql-item linkid85938{
+    background: #01c0b7;
+}
+
