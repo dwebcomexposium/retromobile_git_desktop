@@ -218,3 +218,15 @@ border:0;
     background: #01c0b7;
 }
 
+/* Accroche en h2 */
+.article-intro .h2-like, .article-intro h2 {
+    margin: 30px 0;
+    padding: 0;
+    font-family: Open Sans,Helvetica,Arial,sans-serif;
+    font-size: 22px;
+    font-weight: normal;
+    line-height: 30px;
+    color: #000;
+    border: 0;
+    font-style: italic;
+}
