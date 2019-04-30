@@ -98,7 +98,7 @@ color:#000000;
 .page-events.event .mod-catal .catal-ex-item-stand-more-link span{
 	    font-size: 16px;
     line-height: 24px;
-    color: #5781AE;
+    color: #b32339;
     text-decoration: none;
     font-weight: 400;
 }
@@ -144,7 +144,7 @@ margin-left: -60px;
 
 .page-events.event a.catal-ed-activity-link:hover {
     color: #ffffff;
-    background-color: #5781AE;
+    background-color: #b32339;
 }
 
 .page-events.event a.catal-ed-activity-link {
@@ -176,7 +176,7 @@ margin-left: -60px;
     position: relative;
     top: -2px;
     display: inline-block;
-    border: 4px solid #5781AE;
+    border: 4px solid #b32339;
     margin-right: 0.5em;
 }
 
