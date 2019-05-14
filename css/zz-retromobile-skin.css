@@ -687,7 +687,8 @@ a:active, a:focus, a:hover {
     margin: 0 15px;
     font-size: 14px;
 }
-}.main-navigation .mn-item-lvl-1>.mn-link:after {
+}
+.main-navigation .mn-item-lvl-1>.mn-link:after {
     content: '';
     position: absolute;
     bottom: 0;
@@ -697,7 +698,6 @@ a:active, a:focus, a:hover {
     height: 0;
     margin: 0 auto;
     line-height: 0;
-    background: #b32339;
     transition: .2s;
 }
 
