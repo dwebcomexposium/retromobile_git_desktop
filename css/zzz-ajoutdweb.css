@@ -230,3 +230,8 @@ border:0;
     border: 0;
     font-style: italic;
 }
+
+/***** Menu rouge *****/
+.main-navigation .mn-item-lvl-1>.mn-link:after {
+background: #b32339 !important;
+}
