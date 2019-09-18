@@ -213,8 +213,8 @@ border:0;
     display: none;
 }
 
-/*** CTA Espace exposant ***/ 
-#zone1 .quicklinks .ql-item.linkid85938{
+/*** CTA Espace exposant + Billet en rouge***/ 
+#zone1 .quicklinks .ql-item.linkid85938, #zone1 .quicklinks .ql-item linkid78957{
     background: #b32339;
 }
 
