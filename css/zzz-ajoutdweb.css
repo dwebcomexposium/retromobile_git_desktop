@@ -217,6 +217,9 @@ border:0;
 #zone1 .quicklinks .ql-item.linkid85938, #zone1 .quicklinks .ql-item.linkid78957{
     background: #b32339;
 }
+#zone1 .quicklinks .ql-item .btn-primary .icon-tarifs::after, .right-navigation .ql-item .btn-primary .icon-tarifs::after {
+background: #b32339 !important;
+}
 
 /* Accroche en h2 */
 .article-intro .h2-like, .article-intro h2 {
