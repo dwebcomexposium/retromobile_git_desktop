@@ -194,6 +194,10 @@ margin-left: -60px;
 	font-weight: 700;
 }
 
+.tt-highlight {
+    color: #0c8192;
+}
+
 /** Liste d'articles **/
 
 .article_list [class*=grid-]>:after, .list-articles [class*=grid-]>:after, .article_list [class*=grid-]>:before, .list-articles [class*=grid-]>:before{
