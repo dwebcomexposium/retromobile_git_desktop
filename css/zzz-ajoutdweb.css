@@ -237,7 +237,9 @@ background: #b32339 !important;
     border: 0;
     font-style: italic;
 }
-
+.catalogue .shape:nth-child(1){background:#b32339;}
+.catalogue .shape:nth-child(2){background:#b53f51;}
+.catalogue .shape:nth-child(3){background:#b7616f;}
 /***** Menu rouge *****/
 .main-navigation .mn-item-lvl-1>.mn-link:after {
 background: #b32339 !important;
