@@ -250,3 +250,6 @@ background:#ffffff !important;
 .content79538:not(.content78962):not(.content69567) .main-navigation .mn-menu-submenu .mn-link, .parent66697:not(.content78962):not(.content69567) .main-navigation .mn-menu-submenu .mn-link{
 background:#ffffff !important;
 }
+.main-navigation .mn-menu-submenu .mn-menu-item-avecpicto .mn-link-text{
+    margin-left: -0.25em;
+}
