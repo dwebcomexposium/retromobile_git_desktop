@@ -244,3 +244,6 @@ background: #b32339 !important;
 .main-navigation .mn-item-lvl-1>.mn-link:after {
 background: #b32339 !important;
 }
+.content79538:not(.content78962):not(.content69567) .main-navigation .mn-menu-submenu, .parent66697:not(.content78962):not(.content69567) .main-navigation .mn-menu-submenu, .parent96782:not(.content78962):not(.content69567) .main-navigation .mn-menu-submenu{
+background:#ffffff;
+}
