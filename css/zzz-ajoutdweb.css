@@ -98,7 +98,7 @@ color:#000000;
 .page-events.event .mod-catal .catal-ex-item-stand-more-link span{
 	    font-size: 16px;
     line-height: 24px;
-    color: #b32339;
+    color: #185e3e;
     text-decoration: none;
     font-weight: 400;
 }
@@ -144,7 +144,7 @@ margin-left: -60px;
 
 .page-events.event a.catal-ed-activity-link:hover {
     color: #ffffff;
-    background-color: #b32339;
+    background-color: #185e3e;
 }
 
 .page-events.event a.catal-ed-activity-link {
@@ -176,7 +176,7 @@ margin-left: -60px;
     position: relative;
     top: -2px;
     display: inline-block;
-    border: 4px solid #b32339;
+    border: 4px solid #185e3e;
     margin-right: 0.5em;
 }
 
@@ -190,7 +190,7 @@ margin-left: -60px;
 }
 
 .mod-catal .catal-ex-item.is-premium .catal-ex-item-title a,.mod-catal .catal-ex-item.is-premium h3.catal-ex-item-title a {
-    color: #b32339 !important;
+    color: #185e3e !important;
 	font-weight: 700;
 }
 
@@ -217,12 +217,12 @@ border:0;
     display: none;
 }
 
-/*** CTA Espace exposant + Billet en rouge***/ 
+/*** CTA Espace exposant + Billet en vert***/ 
 #zone1 .quicklinks .ql-item.linkid85938, #zone1 .quicklinks .ql-item.linkid78957{
-    background: #b32339;
+    background: #185e3e;
 }
 #zone1 .quicklinks .ql-item .btn-primary .icon-tarifs::after, .right-navigation .ql-item .btn-primary .icon-tarifs::after {
-background: #b32339 !important;
+background: #185e3e !important;
 }
 
 /* Accroche en h2 */
@@ -237,12 +237,12 @@ background: #b32339 !important;
     border: 0;
     font-style: italic;
 }
-.catalogue .shape:nth-child(1){background:#b32339;}
+.catalogue .shape:nth-child(1){background:#185e3e;}
 .catalogue .shape:nth-child(2){background:#b53f51;}
 .catalogue .shape:nth-child(3){background:#b7616f;}
 /***** Menu rouge *****/
 .main-navigation .mn-item-lvl-1>.mn-link:after {
-background: #b32339 !important;
+background: #185e3e !important;
 }
 .content79538:not(.content78962):not(.content69567) .main-navigation .mn-menu-submenu, .parent66697:not(.content78962):not(.content69567) .main-navigation .mn-menu-submenu, .parent96782:not(.content78962):not(.content69567) .main-navigation .mn-menu-submenu{
 background:#ffffff !important;
