@@ -253,3 +253,7 @@ background:#ffffff !important;
 .main-navigation .mn-menu-submenu .mn-menu-item-avecpicto .mn-link-text{
     margin-left: -0.25em;
 }
+
+.site-banner .icon-linkedin:before {
+    background-image: url(/theme/retromobile_git_desktop/img/icon/linkedin-icon.png);
+}
