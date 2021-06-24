@@ -197,6 +197,8 @@ margin-left: -60px;
 .tt-highlight {
     color: #0c8192;
 }
+#catalog-v2 .CatalogCard-title.CatalogCard-title--premium {
+    background: #185e3e;}
 
 /** Liste d'articles **/
 
