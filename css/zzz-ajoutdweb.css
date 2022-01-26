@@ -264,3 +264,26 @@ background:#ffffff !important;
     background-image: url(/theme/retromobile_git_desktop/img/icon/icon-linkedin.svg);
     padding: 1px;
 }
+
+
+
+.lang-switcher {background: none; padding-top: 11px }
+.lang-switcher .ls-lang-list { background: none; }
+.lang-switcher .ls-lang-item { margin-top: 5px; }
+
+.lang-switcher .ls-lang-link { padding: 0; line-height: 20px; font-size: 0; }
+.lang-switcher .ls-lang-link abbr { border: 0; }
+
+.lang-switcher .ls-lang-en a { display: block; background: url(img/flag-en.png) no-repeat left center; background-size: 18px 18px; }
+.lang-switcher .ls-lang-fr a { display: block; background: url(img/flag-fr.png) no-repeat left center; background-size: 18px 18px; }
+
+.ls-trigger {padding: 0;font-size: 0;padding-left: 5px!important;line-height: 20px;width: 60px; border: 0; }
+
+
+
+html[lang='fr'] .ls-trigger { background: url(img/flag-fr.png) no-repeat left center; background-size: 18px 18px; }
+html[lang='en'] .ls-trigger { background: url(img/flag-en.png) no-repeat left center; background-size: 18px 18px; }
+
+html[lang='fr'] .lang-switcher .ls-lang-fr { display: none; }
+html[lang='en'] .lang-switcher .ls-lang-en { display: none; }
+
