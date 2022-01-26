@@ -287,3 +287,4 @@ html[lang='en'] .ls-trigger { background: url(img/flag-en.png) no-repeat left ce
 html[lang='fr'] .lang-switcher .ls-lang-fr { display: none; }
 html[lang='en'] .lang-switcher .ls-lang-en { display: none; }
 
+.exhibit .site-banner .quicklinks-wrapper { margin-right: 80px; }
