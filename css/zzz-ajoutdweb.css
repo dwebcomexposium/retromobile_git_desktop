@@ -288,3 +288,15 @@ html[lang='fr'] .lang-switcher .ls-lang-fr { display: none; }
 html[lang='en'] .lang-switcher .ls-lang-en { display: none; }
 
 .exhibit .site-banner .quicklinks-wrapper { margin-right: 80px; }
+
+.la-slider .la-item-img {
+    display: block;
+    max-width: 100%;
+    min-width: 46%;
+    margin: auto;
+}
+
+.mod-catal .catal-ex-item-img {
+    min-height: 140px;
+    width: 140px;
+}
