@@ -300,3 +300,8 @@ html[lang='en'] .lang-switcher .ls-lang-en { display: none; }
     min-height: 140px;
     width: 140px;
 }
+
+/*cacher encart présent sur */
+ 
+#catalog-v2.catalog-scope div.container div.Container-inner section.CatalogAppointmentBar {
+    display: none !important;}
