@@ -318,3 +318,6 @@ html[lang='en'] .lang-switcher .ls-lang-en { display: none; }
 article.gla-item.slick-slide.slick-current.slick-active.slick-center {
     background: #e6b70d;
 }
+#zone1 .quicklinks .ql-item.linkid85938, #zone1 .quicklinks .ql-item.linkid78957 {
+    background: #e6b70d;
+}
