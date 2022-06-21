@@ -305,3 +305,16 @@ html[lang='en'] .lang-switcher .ls-lang-en { display: none; }
  
 #catalog-v2.catalog-scope div.container div.Container-inner section.CatalogAppointmentBar {
     display: none !important;}
+
+#zone1 .quicklinks .ql-item.linkid78957 {
+    background: #e6b70d;
+}
+.page-header .date {
+    color: #e6b70d;
+}
+.block-discover .main-title-with-link {
+    background: #e6b70d;
+}
+article.gla-item.slick-slide.slick-current.slick-active.slick-center {
+    background: #e6b70d;
+}
