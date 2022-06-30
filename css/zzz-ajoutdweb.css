@@ -321,3 +321,21 @@ article.gla-item.slick-slide.slick-current.slick-active.slick-center {
 #zone1 .quicklinks .ql-item.linkid85938, #zone1 .quicklinks .ql-item.linkid78957 {
     background: #e6b70d;
 }
+.site-banner .quicklinks .ql-item-link {
+    color: #e6b70d;
+}
+.site-banner .quicklinks .ql-item-link:after {
+    background: #e6b70d;
+}
+#zone1 .quicklinks .ql-item .btn-primary .icon-tarifs::after {
+    background: #e6b70d!important;
+}
+.gla-item>a:focus .gla-item-title, .gla-item>a:hover .gla-item-title{
+    color: #e6b70d;
+}
+.front .edito.block-page:not(.mod-catal) h3 {
+    color: #e6b70d;
+}
+.gla-item-title {
+    color: #e6b70d;
+}
