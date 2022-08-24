@@ -339,3 +339,24 @@ article.gla-item.slick-slide.slick-current.slick-active.slick-center {
 .gla-item-title {
     color: #e6b70d;
 }
+.main-navigation .mn-item-lvl-1>.mn-link:after {
+    background: #e6b70d!important;
+}
+.main-navigation .mn-item-lvl-1>.mn-link:hover {
+    color: #e6b70d;
+}
+.at-main-title, .faq-main-title, .sitemap .block-page.sitemap h1 {
+    color: #e6b70d;
+}
+.parent66697:not(.content78962) .page-header .date {
+    color: #e6b70d;
+}
+.contacts-list h1 {
+    color: #e6b70d;
+}
+.newsletter-form .nf-main-content {
+    background: #e6b70d;
+}
+.block-instagram .insta-tag .sl-link-facebook .icon, .block-instagram .insta-tag .sl-link-instagram .icon {
+    background-color: #e6b70d;
+}
