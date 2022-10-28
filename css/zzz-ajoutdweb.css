@@ -360,3 +360,6 @@ article.gla-item.slick-slide.slick-current.slick-active.slick-center {
 .block-instagram .insta-tag .sl-link-facebook .icon, .block-instagram .insta-tag .sl-link-instagram .icon {
     background-color: #e6b70d;
 }
+.article-content .h2-like, .article-content h2 {
+    color: #e6b70d;
+ }
