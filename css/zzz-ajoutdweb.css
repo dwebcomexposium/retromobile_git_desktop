@@ -370,3 +370,12 @@ article.gla-item.slick-slide.slick-current.slick-active.slick-center {
 #zone1 .content79538:not(.content78962) .quicklinks .ql-item.linkid78950, #zone1 .content79538:not(.content78962) .quicklinks .ql-item.linkid78953, #zone1 .content79538:not(.content78962) .quicklinks .ql-item.linkid85959, #zone1 .parent66697:not(.content78962) .quicklinks .ql-item.linkid78950, #zone1 .parent66697:not(.content78962) .quicklinks .ql-item.linkid78953, #zone1 .parent66697:not(.content78962) .quicklinks .ql-item.linkid85959, #zone1 .parent96782:not(.content78962) .quicklinks .ql-item.linkid78950, #zone1 .parent96782:not(.content78962) .quicklinks .ql-item.linkid78953, #zone1 .parent96782:not(.content78962) .quicklinks .ql-item.linkid85959, .content79538:not(.content78962) #zone1 .quicklinks .ql-item.linkid78950, .content79538:not(.content78962) #zone1 .quicklinks .ql-item.linkid78953, .content79538:not(.content78962) #zone1 .quicklinks .ql-item.linkid85959, .content79538:not(.content78962) .right-navigation .ql-item.linkid78950, .content79538:not(.content78962) .right-navigation .ql-item.linkid78953, .content79538:not(.content78962) .right-navigation .ql-item.linkid85959, .parent66697:not(.content78962) #zone1 .quicklinks .ql-item.linkid78950, .parent66697:not(.content78962) #zone1 .quicklinks .ql-item.linkid78953, .parent66697:not(.content78962) #zone1 .quicklinks .ql-item.linkid85959, .parent66697:not(.content78962) .right-navigation .ql-item.linkid78950, .parent66697:not(.content78962) .right-navigation .ql-item.linkid78953, .parent66697:not(.content78962) .right-navigation .ql-item.linkid85959, .parent96782:not(.content78962) #zone1 .quicklinks .ql-item.linkid78950, .parent96782:not(.content78962) #zone1 .quicklinks .ql-item.linkid78953, .parent96782:not(.content78962) #zone1 .quicklinks .ql-item.linkid85959, .parent96782:not(.content78962) .right-navigation .ql-item.linkid78950, .parent96782:not(.content78962) .right-navigation .ql-item.linkid78953, .parent96782:not(.content78962) .right-navigation .ql-item.linkid85959 {
     background: #e6b70d;
 }
+.custom-goals .main-title-with-link {
+    background: #e6b70d;
+}
+.custom-youare .gla-item>a .gla-item-title, .custom-youare .gla-item>a:focus .gla-btn-read-more, .custom-youare .gla-item>a:hover .gla-btn-read-more {
+    color: #e6b70d;
+}
+.key-figures-list-item h3 b, .key-figures-list-item h3 span, .key-figures-list-item h3 strong {
+    color: #e6b70d;
+}
