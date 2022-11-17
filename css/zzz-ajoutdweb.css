@@ -391,3 +391,6 @@ article.gla-item.slick-slide.slick-current.slick-active.slick-center {
 .main-navigation .mn-menu-submenu .mn-link:focus, .main-navigation .mn-menu-submenu .mn-link:hover {
     color: #e6b70d;
 }
+.main-navigation .is-open.mn-item-lvl-1>.mn-link {
+    color: #e6b70d;
+}
