@@ -388,3 +388,6 @@ article.gla-item.slick-slide.slick-current.slick-active.slick-center {
 .content79538:not(.content78962) .page-header .date, .parent66697:not(.content78962) .page-header .date, .parent96782:not(.content78962) .page-header .date {
     color: #e6b70d;
 }
+.main-navigation .mn-menu-submenu .mn-link:focus, .main-navigation .mn-menu-submenu .mn-link:hover {
+    color: #e6b70d;
+}
