@@ -394,3 +394,21 @@ article.gla-item.slick-slide.slick-current.slick-active.slick-center {
 .main-navigation .is-open.mn-item-lvl-1>.mn-link {
     color: #e6b70d;
 }
+.motul h1.at-main-title {
+    color: #ED1C24;
+}
+.motul .article-content h2 {
+    color: #ED1C24;
+}
+.motul .article-content a {
+    color: #ED1C24;
+}
+.artcurial h1.at-main-title {
+    color: #01193E;
+}
+.artcurial .article-content h2 {
+    color: #01193E;
+}
+.artcurial .article-content a {
+    color: #01193E;
+}
