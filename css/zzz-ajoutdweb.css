@@ -412,3 +412,6 @@ article.gla-item.slick-slide.slick-current.slick-active.slick-center {
 .artcurial .article-content a {
     color: #01193E;
 }
+.block-discover .main-title:after {
+    background: url(/theme/retromobile_git_desktop/img/retro-squared-car2.jpg) no-repeat;
+}
