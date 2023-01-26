@@ -418,8 +418,8 @@ article.gla-item.slick-slide.slick-current.slick-active.slick-center {
 
 /*Calendrier des événements 2023*/
 .mod-catal.catal-results .catal-results-title, .mod-catal .esf-search-line #esf-btn-search{
-background:#e6b70d;}
+background:#e6b70d!important;}
 
 .mod-catal .esf-intro-title{
-	color:#000000;
+	color:#000000!important;
 
